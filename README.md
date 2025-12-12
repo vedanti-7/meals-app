@@ -1,33 +1,40 @@
-# Meals App
+#  Meals App
 
-- A Flutter meals application showcasing a wide variety of international cuisines—including French, German, Italian, and more. Users can browse meals by category, explore detailed recipes, mark meals as favorites, and apply dietary filters such as gluten-free, vegetarian, and lactose-free to customize their meal discovery experience.
-  
-# Features 
+A Flutter meals app showcasing global cuisines such as French, German, and Italian. Users can browse categorized meals, view detailed recipes, mark meals as favorites, and apply dietary filters like gluten-free, vegetarian, and lactose-free for a personalized meal discovery experience.
 
-- Explore Global Cuisines
-•	French, German, Italian, and many more
-•	Categorized meal listings
-•	Clean and simple user interface
+---
 
--Meal & Recipe Details
-•	View ingredients and preparation steps
-•	Well-structured recipe screens
+##  Features
 
--Favourites
-•	Add or remove meals from your favorites
-•	Dedicated favorites screen
+###  Explore Global Cuisines
+- French, German, Italian, and more  
+- Categorized meal browsing  
+- Clean and intuitive UI  
 
-Filters dynamically update meal categories and listings.
+###  Detailed Recipes
+- Ingredients and preparation steps  
+- Easy-to-read recipe layout  
 
-# Tech Stack
--Flutter (Dart)
--Provider / State Management 
+###  Favorites
+- Add or remove favorite meals  
+- Dedicated favorites screen  
 
--Dietary Filters
-•	Gluten-free
-•	Vegetarian	
-•	Lactose-free
-•	Vegan
+###  Dietary Filters
+Filter meals by:
+- Gluten-free  
+- Vegetarian  
+- Lactose-free  
+- Vegan (if included)  
+
+Filters instantly adjust the visible meal list.
+
+---
+
+##  Tech Stack
+
+- Flutter (Dart)  
+- Provider / Riverpod (if used)  
+- Modular, scalable project structure  
 
 A few resources to get you started if this is your first Flutter project:
 
